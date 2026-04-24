@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0a0a0a;
+    color: #0a0a0a;
+    font-family:'Roboto', sans-serif;
+    line-height: 1,6;
+}
+
+h1,h2,h3, .title{
+    font-family: 'Orbitron', sans-serif;
+    color: #ff0000;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    transition: 0,3s;
+}
+
+ul{
+    list-style: none;
+}
